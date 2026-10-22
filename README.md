@@ -1,11 +1,12 @@
 
-<h1 align="center">
-  <span style="color: #00c878; font-family: monospace;">
-    Olá, tudo bem?
-  </span>
-</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C878&center=true&vCenter=true&width=435&lines=WELCOME" alt="WELCOME" />
+</p>
+
+
+<p align="center">
+  
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -15,13 +16,23 @@
 </p>
 
 <p align="center">
-  Estudante de Ciência da Computação - IME - USP <br>
+  Marcos Vinicius Duca da Silva<br>
+  Estudante de Ciência da Computação - IME-USP 🎓<br>
   Interessado em programação, algoritmos e matemática 💻
 </p>
 
 
+<h3 align="center"> Estatísticas </h3>
 
-## 🛠️ My Skills
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=marcosvduca&theme=dark&background=0d1117&border=30363d&ring=00b86b&fire=00b86b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=58a6ff&dates=8b949e" />
+</p>
+<p align="center">
+   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvduca&layout=compact&theme=github_dark" />
+</p>   
+
+
+## 🛠️ Skills
 
 **Linguagens:**
 
