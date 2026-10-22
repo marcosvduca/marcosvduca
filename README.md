@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <span style="color: #00c878; font-family: monospace;">
-    Olá, tudo bem? Eu sou o Marcos 👋
+    Olá, tudo bem?
   </span>
 </h1>
 
