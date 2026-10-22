@@ -1,8 +1,24 @@
 
- 👋
+<h1 align="center">
+  <span style="color: #00c878; font-family: monospace;">
+    Olá, tudo bem? Eu sou o Marcos 👋
+  </span>
+</h1>
 
-🎓 Estudante de Ciência da Computação - IME -USP 
-💻 Interessado em programação, algoritmos e matemática.
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/marcosvduca">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Estudante de Ciência da Computação - IME - USP <br>
+  Interessado em programação, algoritmos e matemática 💻
+</p>
+
 
 
 ## 🛠️ My Skills
@@ -10,6 +26,7 @@
 **Linguagens:**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
