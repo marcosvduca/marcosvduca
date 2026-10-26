@@ -18,7 +18,7 @@
 <p align="center">
   Marcos Vinicius Duca da Silva<br>
   Estudante de Ciência da Computação - IME USP 🎓<br>
-  Interessado em programação, algoritmos e matemática 💻
+  Interessado em programação, dados e I.A. 💻
 </p>
 
 
